@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="NameAndType">
+  <Class Name="ChapeauLogic.Employee_Service">
+    <Position X="11.25" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAgAAAAAAIAAAAAAAAAAgAAAAAAAAAAAA=</HashCode>
+      <FileName>Employee_Service.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="employee_db" />
+      <Field Name="employee" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ChapeauLogic.Menu_Service">
+    <Position X="6.75" Y="5.25" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAIAAAAA=</HashCode>
+      <FileName>Menu_Service.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="Menu_db" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="menus" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ChapeauLogic.Order_Service">
+    <Position X="1.75" Y="5.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAEAQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Order_Service.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="order_db" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="orders" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ChapeauLogic.RestaurantTables_Service">
+    <Position X="15" Y="5.25" Width="3.25" />
+    <AssociationLine Name="restaurantTables_db" Type="ChapeauDAL.RestaurantTables_DAO" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="18.25" Y="5.649" />
+        <Point X="19.125" Y="5.649" />
+        <Point X="19.125" Y="1.25" />
+        <Point X="16.875" Y="1.25" />
+        <Point X="16.875" Y="1.75" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAggAAEAAAAAA=</HashCode>
+      <FileName>RestaurantTables_Service.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="restaurantTables_db" />
+    </ShowAsAssociation>
+    <ShowAsCollectionAssociation>
+      <Field Name="restaurantTable" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ChapeauDAL.Employee_DAO">
+    <Position X="11.25" Y="1.75" Width="2.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ChapeauDAL.Order_DAO">
+    <Position X="1.75" Y="1.75" Width="3.5" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ChapeauDAL.RestaurantTables_DAO">
+    <Position X="15" Y="1.75" Width="3.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ChapeauDAL.Base">
+    <Position X="20.25" Y="1.75" Width="2.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ChapeauModel.Employee">
+    <Position X="11.25" Y="8.25" Width="2" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="Role" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ChapeauModel.Menu.MenuCategorie">
+    <Position X="6.75" Y="12" Width="2" />
+    <TypeIdentifier />
+    <ShowAsCollectionAssociation>
+      <Property Name="MenuItems" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ChapeauModel.MenuItem">
+    <Position X="6.75" Y="15.75" Width="2" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ChapeauModel.Menu.MainMenu">
+    <Position X="6.75" Y="8.25" Width="2.5" />
+    <TypeIdentifier />
+    <ShowAsCollectionAssociation>
+      <Property Name="MenuCategories" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ChapeauModel.RestaurantTable">
+    <Position X="15" Y="8.25" Width="1.75" />
+    <TypeIdentifier />
+  </Class>
+  <Class Name="ChapeauModel.Order">
+    <Position X="1.75" Y="8" Width="2" />
+    <TypeIdentifier />
+    <ShowAsCollectionAssociation>
+      <Property Name="OrderItemList" />
+    </ShowAsCollectionAssociation>
+  </Class>
+  <Class Name="ChapeauModel.OrderItem">
+    <Position X="1.75" Y="12.25" Width="1.5" />
+    <TypeIdentifier />
+    <ShowAsAssociation>
+      <Property Name="MenuItem" />
+      <Property Name="Status" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="ChapeauDAL.Menu_DAO">
+    <Position X="6.75" Y="1.75" Width="3" />
+    <TypeIdentifier />
+  </Class>
+  <Enum Name="ChapeauModel.RestaurantRole">
+    <Position X="11.25" Y="12" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Enum Name="ChapeauModel.OrderStatus">
+    <Position X="1.75" Y="15.5" Width="1.5" />
+    <TypeIdentifier />
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

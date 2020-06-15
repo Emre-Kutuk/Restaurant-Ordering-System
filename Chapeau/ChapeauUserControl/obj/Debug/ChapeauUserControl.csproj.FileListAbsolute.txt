@@ -1,0 +1,17 @@
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\bin\Debug\ChapeauUserControl.dll
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\bin\Debug\ChapeauUserControl.pdb
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\bin\Debug\ChapeauModel.dll
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\bin\Debug\ChapeauModel.pdb
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.csprojAssemblyReference.cache
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.Components.OrderCard.resources
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.UserControl1.resources
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.csproj.GenerateResource.cache
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.csproj.CoreCompileInputs.cache
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.csproj.CopyComplete
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.dll
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.pdb
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.Layout.NavigationItem.resources
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.Components.MenuCard.resources
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.Components.MenuLinkItem.resources
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.Components.MenuOrderCard.resources
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauUserControl\obj\Debug\ChapeauUserControl.Elements.Form.QuantityInput.resources

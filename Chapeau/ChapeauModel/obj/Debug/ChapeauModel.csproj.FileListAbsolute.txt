@@ -1,0 +1,6 @@
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauModel\bin\Debug\ChapeauModel.dll
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauModel\bin\Debug\ChapeauModel.pdb
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauModel\obj\Debug\ChapeauModel.csprojAssemblyReference.cache
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauModel\obj\Debug\ChapeauModel.csproj.CoreCompileInputs.cache
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauModel\obj\Debug\ChapeauModel.dll
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauModel\obj\Debug\ChapeauModel.pdb

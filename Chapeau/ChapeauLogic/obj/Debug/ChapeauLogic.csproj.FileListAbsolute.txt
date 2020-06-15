@@ -1,0 +1,11 @@
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\bin\Debug\ChapeauLogic.dll
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\bin\Debug\ChapeauLogic.pdb
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\bin\Debug\ChapeauDAL.dll
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\bin\Debug\ChapeauModel.dll
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\bin\Debug\ChapeauDAL.pdb
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\bin\Debug\ChapeauModel.pdb
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\obj\Debug\ChapeauLogic.csprojAssemblyReference.cache
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CoreCompileInputs.cache
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\obj\Debug\ChapeauLogic.csproj.CopyComplete
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\obj\Debug\ChapeauLogic.dll
+C:\Projects\inhollandIT\Chapeau\Chapeau\ChapeauLogic\obj\Debug\ChapeauLogic.pdb
